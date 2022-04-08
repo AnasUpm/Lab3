@@ -84,7 +84,7 @@ public class TestStaff {
 				Nacademic[y].setEmail(scan.next());
 				System.out.println("Enter Grade ");
 				Nacademic[y].setGrade(scan.next());
-				System.out.println("Enter Title ");
+				System.out.println("Enter Position ");
 				Nacademic[y].setPosition(scan.next());
 				System.out.println(Nacademic[y].toString());
 				y++;
