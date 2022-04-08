@@ -5,7 +5,7 @@ public class TestStaff {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
-		
+		//Directly insert parameter method
 //		Staff S = new Staff("AB001","Mahmud Yanam","Mahmud@gmail.com","D4S54");
 //		Academic A = new Academic("AA002","Suzilah MdNor","Suzilah@gmail.com","F2E54","Associate Professor Dr.");
 //		NonAcademic NA = new NonAcademic("AN003","Jamilah Jamal","Jamilah@gmail.com","J1S53","Secretary");
@@ -28,7 +28,7 @@ public class TestStaff {
 //		System.out.println(SNA);
 //		System.out.println("-------------------------------------------");
 		
-		
+		//user input method
 		int i;
 		int j=0;
 		int x=0;
